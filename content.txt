@@ -2,12 +2,15 @@
 2020/1/7
 今日学习内容：
 1. java框架：springMVC前面4个小节的视频
-2. 回看spring的注解和xml开发(即：Ioc内容)
+2. 回看spring的注解和xml开发(即：Ioc内容) 
+// 今天的目标达成
 
 2020/1/8
 明日预计学习内容：
 1.java框架，springMVC剩余部分；
 2.回看spring的AOP部分内容
+
+
 
 2020/1/9
 1.实操spring课程代码
